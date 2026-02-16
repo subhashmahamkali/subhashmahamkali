@@ -1,4 +1,5 @@
-# Hi, I'm Sai Subhash Mahamkali 👋
+
+i am# Hi, I'm Sai Subhash Mahamkali 👋
 ## PhD Student in Complex Biosystems at University of Nebraska-Lincoln
 ### Focused on Quantitative Genetics and Population Genomics in maize and sorghum
 
